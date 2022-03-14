@@ -1,8 +1,8 @@
 # Mapbox Polyline React App
 
-This project is an introduction to Mapbox and polyline.\
+This project is an introduction to Mapbox and polyline.
 
-It allows to get user location, look for directions and show the fastest path to get to searched location.\
+It allows to get user location, look for directions and show the fastest path to get to searched location.
 
 Project was created with TypeScript.
 
@@ -30,5 +30,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Learn More
 
-Site is deployed in Netlify. You can take a look at it following the next URL.\
+Site is deployed in Netlify. You can take a look at it in following the next URL.\
 [https://mapbox-maig.netlify.app](https://mapbox-maig.netlify.app)
